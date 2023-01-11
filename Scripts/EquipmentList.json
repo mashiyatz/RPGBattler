@@ -1,0 +1,9 @@
+{
+  "name": "Iron Sword",
+  "stats": {
+    "hp": 0,
+    "atk": 5,
+    "def": 0,
+    "spd": 1
+  }
+}
